@@ -8,6 +8,7 @@
 
 ```bash
 pip install requests python-dotenv
+uv pip install requests python-dotenv
 ```
 
 ### 2. 配置环境变量
